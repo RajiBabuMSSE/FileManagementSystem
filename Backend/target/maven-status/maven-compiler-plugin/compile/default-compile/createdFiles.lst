@@ -1,0 +1,8 @@
+com\example\demo\repository\UserContentRepository.class
+com\example\demo\controller\FileController.class
+com\example\demo\model\UserContentModelKeys.class
+com\example\demo\model\UserModel.class
+com\example\demo\model\UserContentModel.class
+com\example\demo\service\AmazonClient.class
+com\example\demo\CrudProjectApplication.class
+com\example\demo\repository\UserRepository.class
